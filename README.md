@@ -17,7 +17,7 @@ A short explanation about each map:
 - Utiliza a estrutura de dados Map para armazenar pares chave-valor, oferecendo acesso eficiente e iteração.
 
 6 - Filtrar e Mapear Ao Mesmo Tempo
-Filtra um array de objetos para encontrar pessoas com 30 anos ou mais e usa map() para extrair seus nomes.
+- Filtra um array de objetos para encontrar pessoas com 30 anos ou mais e usa map() para extrair seus nomes.
 
 7 - Formatando Datas para Strings ISO
 - Converte objetos Date em strings no formato YYYY-MM-DD usando map() e o método toISOString().
