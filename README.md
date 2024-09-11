@@ -1,5 +1,7 @@
 # Tipos de Map JS
 
+Aqui exploramos técnicas para trabalhar com dados em JavaScript. Ela cobre a adição de índices aos elementos de um array, a aplicação de descontos a preços, e a realização de cálculos em arrays. Inclui também a conversão de strings para maiúsculas, o uso de estruturas chave-valor para armazenar dados, e a combinação de filtragem e mapeamento de dados. Além disso, aborda a formatação de datas para um padrão ISO, a geração de linhas de tabela HTML a partir de objetos, o mapeamento de artistas em dados, e a transformação de strings em objetos.técnicas para manipular e transformar dados em JavaScript. Inclui a adição de índices aos elementos de um array para rastrear suas posições, a aplicação de descontos a preços de produtos para ajustar valores, e a realização de operações matemáticas em arrays para cálculos agregados. Além disso, aborda a conversão de propriedades de strings para maiúsculas para padronizar o texto e a utilização de uma estrutura chave-valor para armazenar e acessar dados de forma eficiente.
+
 ## Adicionando Índices aos Elementos de um Array
 
 ### Descrição
